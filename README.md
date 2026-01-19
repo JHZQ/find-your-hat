@@ -1,4 +1,4 @@
-# Find Your Hat
+# ⌨ Find Your Hat
 
 Terminal-based video game made entirely in JavaScript and Node.js, player must navigate through the dangerous forest to find their hat.
 
